@@ -10,9 +10,10 @@ Vishal Jindal by this side, I had called you on Sunday evening stating that I am
 6) Video 2 - Showing MongoDB
 7) Properties.csv file - containing data of properties in CSV format
 
-I have also provided my contact number and mail if any explanation is needed.
+I have also provided my contact number and mail if any explanation is needed and also the drive link of all the files in case git doesn't work.
 Phone: 9081315782
 Email:vishal.jindal@bca.christuniversity.in
+drive link: https://drive.google.com/drive/folders/1ovn6IDuPftg3CHX9PE_X7skre8_Z5HzT?usp=drive_link
 
 
 Thank you sir
