@@ -1,0 +1,3 @@
+Compass: mongodb+srv://vishal:property@cluster0.fztwz7i.mongodb.net/
+
+URI : mongodb+srv://vishal:property@cluster0.fztwz7i.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp
